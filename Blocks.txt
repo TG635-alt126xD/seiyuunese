@@ -1,1 +1,1 @@
-F26B0..F26F2; Seiyuunese
+F26B0..F26FF; Seiyuunese
